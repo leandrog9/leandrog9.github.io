@@ -1,0 +1,39 @@
+.container{
+    width: 800px; 
+    height: 1024px; 
+    margin: 0 auto;
+    
+    /*border: 1px solid black;*/
+    border-radius: 5px; 
+    padding: 5px;
+
+}
+
+img{
+    width: 109px;
+    float: left;
+    padding-right: 5PX;
+    border: 20px;
+    border-radius: 45px;
+}
+
+div{
+    text-align: justify;
+    text-justify: inter-word; 
+}
+
+.GitHub{
+    border: 2px solid ; /*borda em todo o paragrafo*/
+    border-radius: 20px;
+    border-color: black;  
+    
+   
+}
+
+.Git{
+    border: 2px solid ; /*borda em todo o paragrafo*/
+    border-radius: 20px;
+    border-color: red;   
+     
+   
+}
